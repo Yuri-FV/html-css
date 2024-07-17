@@ -41,3 +41,7 @@ p{margin: 50px;
 .conteudo01{
     
 }
+header a{
+    text-decoration: none;
+    color: white;
+}
