@@ -22,6 +22,11 @@ header{
     
 }
 
+header a{
+    text-decoration: none;
+    color: white;
+}
+
 header > h1{
     font-size: 6em;
     font-family:'fonte01';
@@ -40,8 +45,4 @@ p{margin: 50px;
 }
 .conteudo01{
     
-}
-header a{
-    text-decoration: none;
-    color: white;
 }
